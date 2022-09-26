@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Minter {
+  max-width: 500px;
+  max-height: 720px;
+  padding: 60px 100px;
+  margin: auto;
+  text-align: left;
+  border: 1px solid white;
+  justify-content: center;
+}
+
+.MaintenancePayment {
+  max-width: 500px;
+  max-height: 720px;
+  padding: 60px 100px;
+  margin: auto;
+  text-align: left;
+  border: 1px solid white;
+  justify-content: center;
+}
+
+.RetireToken {
+  max-width: 500px;
+  max-height: 720px;
+  padding: 60px 100px;
+  margin: auto;
+  text-align: left;
+  border: 1px solid white;
+  justify-content: center;
+}
+
+.PublishSell {
+  max-width: 500px;
+  max-height: 720px;
+  padding: 60px 100px;
+  margin: auto;
+  text-align: left;
+  border: 1px solid white;
+  justify-content: center;
+}

@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/.env
+/wallet
+/hyperledger/node_modules
+/hyperledger/wallet
